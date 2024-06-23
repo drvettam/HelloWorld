@@ -1,3 +1,2 @@
 # HelloWorld
-My first Program
-Program is in Machine Learning in Dot Net
+My first Program in Machine Learning in Dot Net
